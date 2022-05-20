@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726502459684",
+    "project_id": "chatbluedata",
+    "storage_bucket": "chatbluedata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726502459684:android:5955c45b608ff5e2280bb1",
+        "android_client_info": {
+          "package_name": "com.example.mychatapptutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726502459684-dt8ghqga7fs7ud8bhjj76sk9dq9ssri6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mychatapptutorial",
+            "certificate_hash": "fc712f58fdc93b7d936778284bff3c087c547ecf"
+          }
+        },
+        {
+          "client_id": "726502459684-e8ba8qbu5s5kva94ut1j334ro3o9edf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhV2s7iWxu73iBnRklabmahBXjUlc1yfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726502459684-e8ba8qbu5s5kva94ut1j334ro3o9edf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
